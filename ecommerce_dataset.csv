@@ -1,0 +1,6 @@
+Order_ID,Customer_Name,Product,Price,Payment_Mode
+101,Neha,Laptop,55000,Card
+102,Arjun,Shoes,2500,UPI
+103,Meera,Watch,3200,Cash
+104,Vikram,Phone,15000,Card
+105,Pooja,Bag,1200,UPI
