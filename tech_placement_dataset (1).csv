@@ -1,0 +1,21 @@
+Student_ID,Name,Branch,CGPA,Skills,Projects_Count,Internship,Placement_Status,Company
+101,Arjun,ECE,7.84,"Java, Data Analysis",4,No,Placed,Startup
+102,Neha,ECE,6.89,"Java, SQL",5,No,Not Placed,Amazon
+103,Anjali,AI,8.11,"Web Dev, SQL",4,Yes,Placed,Wipro
+104,Sneha,AI,7.75,"SQL, Java",4,Yes,Not Placed,Not Placed
+105,Rahul,CSE,8.7,"Data Analysis, SQL",3,No,Not Placed,Amazon
+106,Anjali,ECE,8.77,"Machine Learning, Java",3,No,Not Placed,Accenture
+107,Riya,ME,9.55,"SQL, Machine Learning",4,Yes,Not Placed,Wipro
+108,Vikas,AI,9.45,"Web Dev, Machine Learning",5,Yes,Placed,Amazon
+109,Karan,ECE,9.65,"SQL, Data Analysis",1,Yes,Not Placed,TCS
+110,Simran,CSE,7.72,"Data Analysis, Machine Learning",2,No,Placed,Not Placed
+111,Rahul,IT,7.58,"Data Analysis, SQL",5,Yes,Not Placed,Accenture
+112,Riya,IT,9.48,"Data Analysis, Python",1,No,Placed,Wipro
+113,Karan,CSE,7.15,"SQL, Machine Learning",1,Yes,Placed,Not Placed
+114,Anjali,IT,9.56,"Machine Learning, SQL",3,No,Not Placed,Google
+115,Karan,ME,8.12,"Machine Learning, Java",1,Yes,Placed,Startup
+116,Karan,ME,8.64,"Data Analysis, Java",2,No,Placed,TCS
+117,Riya,CSE,7.47,"Machine Learning, Python",1,No,Placed,Accenture
+118,Riya,AI,6.97,"Data Analysis, Java",3,No,Not Placed,Amazon
+119,Karan,ME,8.25,"Python, Web Dev",4,No,Placed,Google
+120,Karan,ECE,6.11,"Machine Learning, Web Dev",4,Yes,Not Placed,Google
