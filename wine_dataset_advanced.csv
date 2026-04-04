@@ -1,0 +1,301 @@
+wine_id,region,sweetness,acidity,body,year,alcohol_percent,quality_score,price_usd,num_reviews
+1,Barossa Valley,Off-Dry,High,Full,2008,11.0,76,159.1,429
+2,Barossa Valley,Sweet,Medium,Full,2018,14.0,98,22.38,1258
+3,Rioja,Off-Dry,High,Full,2022,9.6,72,14.94,4433
+4,Maharashtra,Sweet,Medium,Medium,1999,11.6,94,151.46,1471
+5,Bordeaux,Sweet,Low,Medium,1995,11.2,59,250.63,4740
+6,Tuscany,Dry,Low,Light,2018,15.1,85,284.51,4572
+7,Rioja,Off-Dry,Medium,Medium,1998,9.8,68,275.03,730
+8,Barossa Valley,Sweet,Medium,Medium,1996,13.1,66,23.6,2194
+9,Napa Valley,Sweet,Low,Medium,2011,14.3,90,287.68,1361
+10,Tuscany,Dry,High,Light,1999,13.4,73,134.1,558
+11,Maharashtra,Dry,Low,Light,1995,14.3,54,86.2,4623
+12,Rioja,Off-Dry,High,Medium,2013,11.9,71,10.79,991
+13,Napa Valley,Off-Dry,Medium,Light,2007,10.4,54,259.24,1520
+14,Maharashtra,Off-Dry,High,Full,2014,11.7,77,15.71,2889
+15,Rioja,Dry,Medium,Light,1997,13.6,54,28.65,882
+16,Maharashtra,Sweet,Low,Medium,2017,13.3,76,183.71,2963
+17,Bordeaux,Off-Dry,High,Medium,2002,11.2,62,193.34,2257
+18,Tuscany,Sweet,Medium,Medium,2016,15.3,53,173.16,1734
+19,Maharashtra,Sweet,Medium,Light,2018,14.1,56,70.98,1982
+20,Tuscany,Off-Dry,High,Full,2016,12.4,63,72.53,2365
+21,Tuscany,Off-Dry,High,Medium,2007,12.1,61,90.58,4939
+22,Bordeaux,Sweet,Medium,Full,2014,12.0,90,35.65,3721
+23,Maharashtra,Sweet,Low,Medium,1996,9.9,79,279.1,794
+24,Rioja,Off-Dry,High,Medium,1996,12.1,70,245.41,3178
+25,Tuscany,Sweet,Low,Light,2016,12.1,96,262.19,2676
+26,Bordeaux,Sweet,Medium,Full,1995,11.7,51,145.25,1228
+27,Napa Valley,Off-Dry,Medium,Light,1999,14.2,70,224.94,1168
+28,Barossa Valley,Off-Dry,High,Full,2013,14.8,60,277.9,4905
+29,Rioja,Off-Dry,High,Light,2015,11.2,55,17.07,2084
+30,Tuscany,Sweet,Medium,Light,2009,11.6,68,49.55,4259
+31,Tuscany,Sweet,High,Light,2011,12.1,65,66.94,4745
+32,Rioja,Dry,Medium,Light,2012,14.3,96,20.39,3456
+33,Napa Valley,Dry,Medium,Light,2007,14.5,59,280.19,2032
+34,Maharashtra,Sweet,High,Full,2022,9.7,77,298.64,178
+35,Barossa Valley,Off-Dry,High,Full,2004,9.9,62,49.51,2603
+36,Tuscany,Dry,High,Medium,2023,12.3,68,285.99,1212
+37,Rioja,Dry,Medium,Full,2023,12.9,86,70.67,1714
+38,Maharashtra,Sweet,High,Medium,2008,10.5,75,206.59,282
+39,Napa Valley,Dry,High,Full,2006,13.8,83,10.02,1457
+40,Maharashtra,Sweet,High,Medium,2024,10.7,50,212.44,4237
+41,Napa Valley,Off-Dry,Low,Medium,2012,11.1,100,75.06,995
+42,Barossa Valley,Dry,Low,Light,2009,15.3,88,164.77,304
+43,Napa Valley,Dry,Low,Medium,1998,13.3,73,144.53,1216
+44,Barossa Valley,Off-Dry,High,Medium,2006,10.1,54,146.06,155
+45,Bordeaux,Off-Dry,High,Light,2010,15.3,79,242.6,3975
+46,Bordeaux,Off-Dry,Low,Medium,2009,11.9,91,144.32,2268
+47,Tuscany,Sweet,High,Medium,2006,10.2,100,136.55,4272
+48,Napa Valley,Off-Dry,High,Light,1999,12.8,88,98.94,3832
+49,Maharashtra,Off-Dry,High,Full,1999,13.6,95,203.54,4139
+50,Napa Valley,Off-Dry,High,Medium,2018,15.3,89,294.3,86
+51,Bordeaux,Sweet,Medium,Light,2012,10.5,61,229.85,3746
+52,Maharashtra,Dry,Medium,Full,2004,13.0,62,70.03,1418
+53,Bordeaux,Off-Dry,Low,Medium,2002,12.5,61,50.54,1994
+54,Bordeaux,Dry,Low,Medium,1997,15.3,84,134.75,412
+55,Bordeaux,Sweet,Medium,Full,2018,12.9,87,191.76,4166
+56,Rioja,Sweet,Low,Full,1996,13.7,63,240.93,2545
+57,Napa Valley,Dry,High,Full,2000,14.0,52,284.45,1796
+58,Bordeaux,Sweet,High,Full,2006,13.8,68,198.32,4880
+59,Tuscany,Dry,High,Light,1998,14.3,94,268.89,1812
+60,Rioja,Off-Dry,High,Full,2007,12.0,87,127.51,2994
+61,Bordeaux,Sweet,Medium,Full,2006,14.8,52,243.64,3965
+62,Barossa Valley,Off-Dry,Low,Light,2001,9.5,75,24.18,4664
+63,Bordeaux,Sweet,High,Medium,2002,11.3,82,293.89,4285
+64,Rioja,Dry,Low,Light,2011,13.5,81,79.08,4118
+65,Rioja,Dry,Low,Light,2024,12.4,78,288.46,4109
+66,Maharashtra,Off-Dry,Low,Full,2014,12.2,58,278.53,2993
+67,Napa Valley,Off-Dry,Low,Full,1995,10.2,64,47.72,2215
+68,Maharashtra,Off-Dry,High,Full,2015,9.7,64,53.48,2935
+69,Tuscany,Dry,Low,Medium,2001,9.6,66,291.8,4856
+70,Barossa Valley,Dry,Medium,Full,2008,10.2,69,188.01,3162
+71,Maharashtra,Off-Dry,Low,Light,2023,15.5,60,148.29,3179
+72,Bordeaux,Dry,Medium,Medium,2006,12.1,67,225.39,4826
+73,Tuscany,Sweet,High,Medium,2021,13.8,81,242.67,3716
+74,Tuscany,Sweet,Medium,Medium,2012,9.6,91,34.45,2539
+75,Napa Valley,Off-Dry,High,Light,2000,9.7,91,130.63,753
+76,Rioja,Off-Dry,Low,Medium,2016,12.3,76,97.53,3470
+77,Rioja,Off-Dry,Medium,Light,2003,14.2,60,83.4,512
+78,Rioja,Off-Dry,High,Light,2008,11.2,94,93.68,2469
+79,Tuscany,Off-Dry,Low,Medium,2021,12.6,61,116.4,4275
+80,Rioja,Sweet,Medium,Light,1998,14.8,86,173.62,705
+81,Barossa Valley,Dry,Medium,Light,1999,12.4,77,38.23,3992
+82,Napa Valley,Dry,Low,Light,2014,12.0,98,82.73,2540
+83,Tuscany,Off-Dry,Medium,Full,1998,14.2,70,270.8,469
+84,Tuscany,Off-Dry,Low,Light,2001,11.6,57,89.18,3561
+85,Tuscany,Off-Dry,Low,Medium,2010,14.7,89,256.93,1333
+86,Maharashtra,Dry,High,Medium,2021,10.3,97,272.81,4569
+87,Bordeaux,Off-Dry,Medium,Light,1996,9.9,78,146.15,639
+88,Rioja,Dry,Medium,Full,2014,15.0,66,256.3,70
+89,Barossa Valley,Dry,Medium,Full,1997,10.3,72,43.35,81
+90,Bordeaux,Off-Dry,Low,Medium,1995,14.4,67,240.32,2590
+91,Tuscany,Dry,High,Light,2021,11.3,97,5.51,1583
+92,Napa Valley,Dry,High,Medium,1999,9.8,54,123.95,827
+93,Maharashtra,Sweet,Low,Medium,2012,9.6,88,167.8,1802
+94,Napa Valley,Off-Dry,High,Light,2020,9.5,96,228.63,3929
+95,Bordeaux,Dry,Medium,Light,2009,11.1,86,136.47,3067
+96,Bordeaux,Off-Dry,Medium,Medium,1996,10.0,90,275.88,129
+97,Napa Valley,Dry,Low,Medium,2016,14.7,67,104.26,2970
+98,Napa Valley,Off-Dry,Medium,Light,1996,15.5,98,259.03,1909
+99,Napa Valley,Off-Dry,Low,Medium,2020,14.1,69,152.59,1060
+100,Maharashtra,Dry,Medium,Light,2008,11.3,62,158.58,1872
+101,Barossa Valley,Sweet,High,Full,2010,13.2,61,239.9,354
+102,Napa Valley,Dry,Low,Light,1995,15.0,87,138.49,423
+103,Tuscany,Off-Dry,Low,Full,2022,9.8,90,221.96,2900
+104,Maharashtra,Sweet,Medium,Medium,2024,14.3,57,23.33,2767
+105,Bordeaux,Dry,Medium,Medium,2005,11.7,65,32.36,2075
+106,Barossa Valley,Off-Dry,High,Light,2018,13.4,65,109.02,2945
+107,Rioja,Dry,Medium,Medium,2019,14.4,86,155.28,2609
+108,Rioja,Off-Dry,Low,Light,2008,10.5,72,114.7,1512
+109,Napa Valley,Off-Dry,High,Medium,2011,13.6,92,101.85,4816
+110,Rioja,Dry,Low,Medium,2015,13.5,91,56.53,2491
+111,Tuscany,Sweet,Medium,Light,2005,12.3,67,160.53,1577
+112,Tuscany,Dry,High,Full,2014,13.5,86,37.14,1124
+113,Napa Valley,Dry,Medium,Light,2003,9.7,52,171.08,4908
+114,Rioja,Off-Dry,Low,Medium,2014,12.1,77,138.0,2755
+115,Bordeaux,Dry,Low,Medium,2009,13.0,74,67.9,1933
+116,Rioja,Dry,Medium,Medium,2012,11.6,82,17.15,381
+117,Bordeaux,Sweet,Low,Full,2023,12.9,58,184.52,3875
+118,Tuscany,Off-Dry,High,Light,2008,15.4,82,5.36,4031
+119,Barossa Valley,Off-Dry,Medium,Medium,2001,11.1,71,24.88,1455
+120,Maharashtra,Dry,Medium,Medium,2005,12.9,83,13.73,3175
+121,Bordeaux,Off-Dry,Low,Full,2005,10.1,99,157.08,3609
+122,Barossa Valley,Dry,High,Medium,2017,12.5,94,35.15,802
+123,Rioja,Off-Dry,Medium,Light,2008,9.9,79,82.35,4438
+124,Tuscany,Sweet,Medium,Medium,1995,12.8,92,233.33,376
+125,Napa Valley,Sweet,Medium,Full,2007,13.1,59,173.66,1074
+126,Rioja,Dry,Low,Full,2014,10.3,82,141.27,1728
+127,Rioja,Dry,Medium,Light,2014,13.7,92,257.84,1258
+128,Maharashtra,Sweet,High,Light,2003,15.3,51,114.46,1261
+129,Napa Valley,Sweet,Low,Medium,2005,10.1,75,193.25,2694
+130,Napa Valley,Off-Dry,High,Medium,1998,10.0,55,15.32,4757
+131,Barossa Valley,Dry,Medium,Light,2007,13.6,71,223.74,985
+132,Maharashtra,Dry,Medium,Light,1995,10.5,96,258.44,4272
+133,Bordeaux,Off-Dry,Low,Full,2019,10.5,62,144.22,488
+134,Rioja,Off-Dry,Low,Light,2001,10.1,61,156.74,1440
+135,Bordeaux,Dry,Low,Full,1996,10.8,100,78.48,475
+136,Bordeaux,Off-Dry,Low,Medium,2008,10.6,54,128.74,1491
+137,Napa Valley,Dry,Medium,Medium,2019,11.2,99,77.99,3693
+138,Maharashtra,Off-Dry,Low,Full,2018,12.1,59,64.36,3854
+139,Napa Valley,Sweet,High,Medium,2018,10.0,66,46.91,2185
+140,Tuscany,Dry,Medium,Full,2022,13.0,58,214.08,3399
+141,Rioja,Off-Dry,High,Full,2008,12.2,54,299.77,1538
+142,Tuscany,Sweet,Medium,Full,2010,13.7,53,246.68,4934
+143,Tuscany,Sweet,High,Full,1999,15.1,89,199.8,374
+144,Bordeaux,Sweet,Low,Medium,2007,14.0,76,257.19,1160
+145,Maharashtra,Sweet,Low,Medium,2020,14.8,98,48.04,2675
+146,Barossa Valley,Dry,Medium,Full,2002,13.6,51,64.04,3632
+147,Bordeaux,Off-Dry,Medium,Full,2010,11.9,50,253.8,4403
+148,Bordeaux,Dry,Medium,Medium,2006,14.6,79,208.19,3581
+149,Bordeaux,Off-Dry,Medium,Medium,2004,9.7,50,200.65,1010
+150,Tuscany,Dry,High,Full,2021,11.6,68,285.29,1317
+151,Napa Valley,Dry,High,Light,2014,9.6,82,227.07,4116
+152,Barossa Valley,Sweet,Low,Light,2002,13.5,70,127.36,2169
+153,Napa Valley,Off-Dry,Low,Medium,2023,13.4,72,123.57,4098
+154,Rioja,Sweet,Medium,Medium,2010,12.7,52,202.4,1163
+155,Maharashtra,Dry,High,Full,2008,9.6,60,115.31,2603
+156,Tuscany,Off-Dry,Low,Medium,2016,9.9,64,71.17,2415
+157,Tuscany,Off-Dry,Low,Full,2016,9.7,73,110.58,388
+158,Barossa Valley,Dry,Medium,Full,2018,10.0,76,224.41,934
+159,Napa Valley,Dry,Low,Full,2005,14.4,54,121.24,2185
+160,Tuscany,Off-Dry,Low,Full,1999,11.0,57,167.78,431
+161,Bordeaux,Dry,Medium,Full,2024,11.1,50,36.36,761
+162,Rioja,Dry,Medium,Light,2001,14.2,92,293.81,3247
+163,Napa Valley,Dry,Medium,Light,2010,12.7,85,255.8,2017
+164,Napa Valley,Dry,High,Medium,2002,10.6,70,208.48,4316
+165,Barossa Valley,Off-Dry,High,Light,2017,13.8,59,78.56,2078
+166,Maharashtra,Off-Dry,Medium,Full,1998,12.6,51,220.82,4677
+167,Maharashtra,Off-Dry,High,Light,2017,9.8,84,219.88,3842
+168,Maharashtra,Sweet,Low,Full,2013,9.6,56,65.2,978
+169,Maharashtra,Sweet,Medium,Full,2001,13.4,72,135.67,58
+170,Rioja,Dry,Low,Full,2001,11.6,53,236.73,1030
+171,Rioja,Sweet,Low,Light,2008,15.2,97,213.72,4005
+172,Maharashtra,Sweet,Medium,Full,2022,13.0,82,48.32,3211
+173,Barossa Valley,Dry,Medium,Full,2023,13.4,96,272.82,4805
+174,Maharashtra,Off-Dry,Low,Full,2001,9.6,87,221.63,2985
+175,Barossa Valley,Off-Dry,Medium,Medium,1999,11.8,74,161.55,1821
+176,Maharashtra,Sweet,Medium,Medium,2019,12.7,54,174.57,45
+177,Bordeaux,Off-Dry,High,Medium,2016,12.0,51,175.46,1225
+178,Bordeaux,Off-Dry,Medium,Light,2010,12.0,82,63.65,120
+179,Maharashtra,Dry,Low,Full,2011,14.0,70,59.41,1068
+180,Barossa Valley,Sweet,High,Medium,2021,10.0,95,158.71,1468
+181,Rioja,Sweet,Medium,Medium,2022,15.0,90,204.79,4678
+182,Barossa Valley,Sweet,High,Full,2004,10.7,95,26.28,3052
+183,Maharashtra,Sweet,High,Medium,1999,9.6,98,203.78,384
+184,Rioja,Sweet,High,Full,1997,15.4,67,204.59,2748
+185,Barossa Valley,Dry,Medium,Light,2024,12.5,61,154.99,3630
+186,Tuscany,Sweet,Low,Medium,2011,12.6,65,218.67,1516
+187,Napa Valley,Dry,High,Full,2002,11.8,89,54.97,3101
+188,Rioja,Sweet,Low,Medium,2019,9.6,62,261.82,3650
+189,Rioja,Sweet,High,Full,2003,10.0,71,146.74,3563
+190,Barossa Valley,Sweet,High,Light,2020,12.6,77,193.42,106
+191,Napa Valley,Off-Dry,Low,Full,2018,11.8,94,174.86,2656
+192,Napa Valley,Off-Dry,High,Light,2000,11.2,80,242.86,416
+193,Tuscany,Off-Dry,Medium,Light,2012,13.8,92,295.35,4004
+194,Rioja,Sweet,Low,Full,2004,10.7,51,57.62,3710
+195,Tuscany,Off-Dry,High,Medium,2003,15.4,80,112.63,3699
+196,Maharashtra,Dry,High,Medium,2010,12.9,54,208.44,1546
+197,Maharashtra,Sweet,Low,Light,2024,13.9,79,11.92,2287
+198,Barossa Valley,Sweet,Low,Medium,2021,14.0,70,214.22,3303
+199,Bordeaux,Off-Dry,High,Light,2019,11.8,81,44.22,2135
+200,Barossa Valley,Off-Dry,Medium,Light,1999,14.3,57,199.51,4431
+201,Napa Valley,Dry,Low,Medium,2010,14.3,59,77.31,3273
+202,Napa Valley,Sweet,Low,Light,2013,10.9,66,26.06,3433
+203,Barossa Valley,Dry,High,Medium,2013,14.6,97,242.34,1558
+204,Tuscany,Sweet,Low,Medium,2003,12.7,100,28.52,4640
+205,Rioja,Sweet,High,Medium,2005,11.8,63,8.51,4281
+206,Maharashtra,Off-Dry,Medium,Light,2023,14.2,94,49.1,4743
+207,Tuscany,Off-Dry,Low,Full,1999,13.4,82,52.48,961
+208,Tuscany,Off-Dry,Medium,Medium,2001,10.8,55,221.39,401
+209,Tuscany,Dry,High,Full,2019,9.8,81,137.79,48
+210,Rioja,Off-Dry,High,Full,1997,12.5,100,154.59,4041
+211,Rioja,Sweet,High,Full,2009,12.4,78,70.87,3848
+212,Bordeaux,Dry,Medium,Full,2002,11.0,69,250.87,3557
+213,Rioja,Sweet,Medium,Medium,2008,15.3,75,236.18,2767
+214,Tuscany,Sweet,Low,Light,2009,12.1,79,87.93,2472
+215,Barossa Valley,Sweet,Medium,Full,2023,9.8,98,129.28,2686
+216,Tuscany,Sweet,Medium,Full,2019,10.2,54,159.27,1696
+217,Napa Valley,Sweet,High,Full,2016,12.6,72,255.56,2365
+218,Barossa Valley,Off-Dry,Medium,Medium,2010,14.5,56,137.4,2597
+219,Maharashtra,Dry,Low,Light,2021,13.0,98,263.19,1180
+220,Napa Valley,Sweet,High,Full,1999,13.0,88,298.53,2532
+221,Tuscany,Sweet,Low,Medium,2011,13.9,77,203.18,3312
+222,Tuscany,Off-Dry,Low,Full,2017,11.3,50,87.96,2282
+223,Tuscany,Dry,Medium,Light,2004,12.7,86,12.68,4586
+224,Bordeaux,Off-Dry,Low,Medium,2011,10.1,55,185.49,2177
+225,Tuscany,Off-Dry,High,Light,2001,10.1,67,49.03,918
+226,Barossa Valley,Dry,Medium,Full,2016,13.6,94,246.66,2286
+227,Rioja,Off-Dry,Low,Full,1995,15.0,50,190.76,3291
+228,Barossa Valley,Off-Dry,High,Light,2010,10.0,55,108.81,3260
+229,Maharashtra,Sweet,Low,Medium,2022,13.0,50,166.6,407
+230,Tuscany,Sweet,Medium,Medium,2024,10.2,64,126.53,4811
+231,Rioja,Off-Dry,Low,Light,2003,9.7,69,157.62,2088
+232,Rioja,Dry,High,Medium,2004,15.2,77,64.68,2602
+233,Barossa Valley,Dry,Medium,Light,2019,15.5,85,287.74,2075
+234,Tuscany,Dry,High,Medium,2013,12.2,96,112.38,4589
+235,Bordeaux,Dry,High,Light,2019,13.3,51,88.17,3954
+236,Barossa Valley,Sweet,Low,Medium,2003,13.1,85,22.79,3680
+237,Maharashtra,Sweet,Medium,Full,2015,12.5,90,224.08,3102
+238,Tuscany,Sweet,Low,Full,1995,14.8,52,62.15,4028
+239,Napa Valley,Dry,High,Light,2017,13.1,69,251.27,695
+240,Bordeaux,Off-Dry,Low,Full,2004,10.2,50,45.85,469
+241,Rioja,Sweet,High,Full,2020,10.5,72,14.13,4704
+242,Maharashtra,Off-Dry,High,Medium,2013,13.2,63,72.76,64
+243,Napa Valley,Dry,Low,Medium,2006,12.0,53,229.59,1185
+244,Tuscany,Sweet,Low,Light,2008,11.8,51,88.56,2386
+245,Napa Valley,Sweet,Medium,Medium,2024,14.3,63,273.22,1623
+246,Maharashtra,Off-Dry,High,Light,2002,10.3,82,121.04,3917
+247,Napa Valley,Sweet,Low,Light,2017,9.9,79,59.58,3079
+248,Rioja,Off-Dry,Medium,Light,2008,11.6,52,191.35,4784
+249,Barossa Valley,Off-Dry,Low,Medium,2002,14.8,67,162.8,4921
+250,Rioja,Sweet,Low,Light,2011,14.7,62,17.53,1765
+251,Bordeaux,Sweet,High,Full,1997,13.3,59,6.33,4092
+252,Maharashtra,Sweet,High,Full,2013,11.2,89,11.91,1831
+253,Bordeaux,Dry,Low,Light,1998,14.3,66,84.2,3191
+254,Maharashtra,Dry,High,Full,2017,10.7,81,179.24,4499
+255,Rioja,Dry,High,Light,2022,14.1,51,190.41,2196
+256,Rioja,Off-Dry,High,Medium,2014,13.6,64,60.53,2968
+257,Bordeaux,Sweet,Low,Medium,1997,14.7,62,212.42,3996
+258,Rioja,Dry,High,Light,2021,12.9,95,24.87,2816
+259,Barossa Valley,Dry,High,Medium,2008,12.1,58,109.43,2133
+260,Napa Valley,Off-Dry,Low,Light,2005,11.8,77,111.0,1293
+261,Maharashtra,Dry,High,Light,2003,15.4,62,10.02,4131
+262,Bordeaux,Dry,High,Light,2012,11.3,80,164.91,1519
+263,Tuscany,Sweet,High,Full,2022,13.5,51,249.12,1386
+264,Maharashtra,Sweet,Low,Medium,2002,12.7,57,161.79,419
+265,Maharashtra,Dry,High,Full,2013,14.6,59,60.86,1514
+266,Napa Valley,Dry,High,Light,2006,15.5,71,154.81,4380
+267,Maharashtra,Off-Dry,Low,Full,2003,10.8,58,278.13,4777
+268,Bordeaux,Off-Dry,Low,Full,2021,10.1,94,151.41,1562
+269,Napa Valley,Dry,Medium,Full,2013,13.2,68,19.88,1498
+270,Rioja,Dry,Low,Full,2014,13.2,67,153.87,3258
+271,Bordeaux,Off-Dry,High,Light,2016,10.3,97,174.86,4242
+272,Barossa Valley,Dry,High,Light,2023,12.3,72,5.88,1047
+273,Napa Valley,Sweet,Medium,Medium,2007,13.3,85,257.55,4373
+274,Maharashtra,Sweet,Low,Medium,2021,12.0,59,152.47,1478
+275,Maharashtra,Off-Dry,Low,Light,2008,10.8,73,73.02,584
+276,Tuscany,Sweet,Low,Light,2019,11.0,91,275.6,2480
+277,Tuscany,Off-Dry,Low,Medium,1998,10.8,100,239.2,858
+278,Tuscany,Sweet,High,Full,2019,15.3,55,94.94,1251
+279,Napa Valley,Sweet,Medium,Full,2009,11.2,69,217.38,350
+280,Rioja,Dry,High,Light,2012,15.2,85,148.13,2763
+281,Barossa Valley,Off-Dry,Medium,Full,2012,13.1,53,297.12,507
+282,Maharashtra,Dry,High,Full,2012,11.4,94,31.83,3130
+283,Napa Valley,Dry,High,Medium,2011,13.0,72,50.64,199
+284,Barossa Valley,Off-Dry,Low,Medium,2006,14.1,98,53.68,3821
+285,Tuscany,Dry,Medium,Medium,2009,14.1,59,222.27,19
+286,Bordeaux,Dry,Low,Medium,2011,10.7,68,280.44,2716
+287,Tuscany,Dry,Low,Light,2020,10.3,61,216.97,3028
+288,Barossa Valley,Off-Dry,Low,Full,2014,11.1,87,128.48,393
+289,Tuscany,Off-Dry,Medium,Light,2005,13.5,66,237.08,778
+290,Tuscany,Off-Dry,Low,Full,2017,14.4,59,298.6,2271
+291,Barossa Valley,Dry,Medium,Full,2015,14.9,80,81.43,2625
+292,Rioja,Off-Dry,Medium,Medium,2010,13.6,74,116.62,296
+293,Tuscany,Sweet,Medium,Light,2018,12.8,94,271.22,1070
+294,Maharashtra,Off-Dry,Low,Medium,2011,15.5,70,85.47,2362
+295,Rioja,Sweet,High,Light,2016,13.3,71,104.36,3527
+296,Napa Valley,Sweet,Low,Light,2011,10.3,55,281.42,4563
+297,Barossa Valley,Off-Dry,Medium,Light,2010,11.5,100,254.16,2553
+298,Maharashtra,Sweet,High,Full,2021,13.7,79,172.13,231
+299,Rioja,Sweet,Low,Medium,2017,14.6,54,102.25,1637
+300,Napa Valley,Sweet,Low,Full,2023,9.9,58,278.18,870
